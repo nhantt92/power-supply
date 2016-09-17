@@ -1,4 +1,4 @@
-update=9/9/2016 10:17:37 PM
+update=9/13/2016 11:25:09 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=D:/Projects/2016/nhantt/kicad-library/library/stm8
+LibName31=D:/Projects/2016/nhantt/st-kicad-lib/st-kicad-lib
