@@ -1,4 +1,4 @@
-update=9/10/2016 12:11:07 AM
+update=9/20/2016 12:38:45 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../kicad-library
+LibDir=../../nhantt/kicad-library
 [eeschema/libraries]
 LibName1=C:/Program Files/KiCad/share/kicad/library/stm8
 LibName2=power
@@ -59,3 +59,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=D:/Projects/2016/nhantt/st-kicad-lib/st-kicad-lib
+LibName32=D:/Projects/2016/nhantt/kicad-library/library/stm8
