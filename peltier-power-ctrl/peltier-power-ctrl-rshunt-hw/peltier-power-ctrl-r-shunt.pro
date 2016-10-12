@@ -1,4 +1,4 @@
-update=9/11/2016 10:52:59 AM
+update=9/30/2016 9:47:05 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../../nhantt/dv-kicad-library/sch;../../nhantt/st-kicad-lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=D:/Projects/2016/nhantt/kicad-library/library/stm8
+LibName31=D:/Projects/2016/nhantt/kicad-library/Displays_7-Segment.pretty/audio
+LibName32=D:/Projects/2016/nhantt/st-kicad-lib/st-kicad-lib
